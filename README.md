@@ -1,2 +1,2 @@
 # Churn101
-Customer Churn Prediction for Marketing Analytics 
+Dataset from kaggle >> https://www.kaggle.com/datasets/adammaus/predicting-churn-for-bank-customers
